@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tushar</h1>
-<h3 align="center">an engineering student based in Yamunanagar, Haryana, India who loves to code and learn new technologies .</h3>
+<h3 align="center">an engineering student having expertise in website development who loves to learn new technologies.</h3>
 
 - 🌱 I’m currently learning and exploring **React.js**
 - ⚡ Fun fact **I love travelling ✈️ and singing 🎵🎙️.**
