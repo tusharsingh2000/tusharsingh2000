@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Tushar Singh</h1>
-<h3 align="center">A self-taught programmer and born at very little age😜</h3>
+<h1 align="center">Hi 👋, I'm Tushar</h1>
+<h3 align="center">an engineering student based in Yamunanagar, Haryana, India who loves to code and learn new technologies .</h3>
 
-- 🌱 I’m currently learning **React**
-- ⚡ Fun fact **I love to play Badminton and Football.**
+- 🌱 I’m currently learning and exploring **React.js**
+- ⚡ Fun fact **I love travelling ✈️ and singing 🎵🎙️.**
 
 👔[linekdin](https://www.linkedin.com/in/tushar-singh-11377119b/) | 📧 [mail](mailto:tusharsinghynr@gmail.com) | ![](https://komarev.com/ghpvc/?username=tusharsingh2000&color=blue)
 
