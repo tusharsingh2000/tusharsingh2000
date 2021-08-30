@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Tushar Singh</h1>
+<h3 align="center">A self-taught programmer and born at very little age😜</h3>
 
-<!--
-**tusharsingh2000/tusharsingh2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **React**
+- ⚡ Fun fact **I love to play Badminton and Football.**
 
-Here are some ideas to get you started:
+👔[linekdin](https://www.linkedin.com/in/tushar-singh-11377119b/) | 📧 [mail](mailto:tusharsinghynr@gmail.com) | ![](https://komarev.com/ghpvc/?username=tusharsingh2000&color=blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+<!--START_SECTION:waka-->
+```text
+```
+<!--END_SECTION:waka-->
+
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tusharsingh2000&theme=dark" /></br>
+![Pushpender Singh's github stats](https://github-readme-stats.vercel.app/api?username=tusharsingh2000&show_icons=true&theme=radical&count_private=true)</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharsingh2000&theme=radical)](https://github.com/tusharsingh2000/github-readme-stats)
