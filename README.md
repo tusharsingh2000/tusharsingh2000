@@ -11,9 +11,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 August, 2021 - 31 August, 2021
+Week: 26 August, 2021 - 01 September, 2021
 
-
+JSON         9 mins          ████████████████████░░░░░   79.92 % 
+JSX          2 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.22 % 
 ```
 <!--END_SECTION:waka-->
 
