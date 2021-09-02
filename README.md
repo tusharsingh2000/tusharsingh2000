@@ -19,5 +19,5 @@ JSX          2 mins          ████▓░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tusharsingh2000&theme=dark" /></br>
-![Pushpender Singh's github stats](https://github-readme-stats.vercel.app/api?username=tusharsingh2000&show_icons=true&theme=radical&count_private=true)</br>
+![Tushar's github stats](https://github-readme-stats.vercel.app/api?username=tusharsingh2000&show_icons=true&theme=radical&count_private=true)</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharsingh2000&theme=radical)](https://github.com/tusharsingh2000/github-readme-stats)
