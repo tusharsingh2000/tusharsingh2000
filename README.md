@@ -11,10 +11,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 August, 2021 - 01 September, 2021
+Week: 27 August, 2021 - 02 September, 2021
 
-JSON         9 mins          ████████████████████░░░░░   79.92 % 
-JSX          2 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.22 % 
+JSX          36 mins         ██████████▓░░░░░░░░░░░░░░   42.99 % 
+JSON         35 mins         ██████████▓░░░░░░░░░░░░░░   42.24 % 
+JavaScript   10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+HTML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 ```
 <!--END_SECTION:waka-->
 
