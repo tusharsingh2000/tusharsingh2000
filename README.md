@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 September, 2021 - 16 September, 2021
+Week: 11 September, 2021 - 17 September, 2021
 
 JSX          7 hrs 3 mins    █████████████████████▒░░░   85.11 % 
 JavaScript   53 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
