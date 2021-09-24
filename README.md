@@ -11,11 +11,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 September, 2021 - 22 September, 2021
+Week: 17 September, 2021 - 23 September, 2021
 
-JSX          2 hrs 27 mins   ███████████████░░░░░░░░░░   60.17 % 
-JavaScript   1 hr 16 mins    ███████▓░░░░░░░░░░░░░░░░░   31.23 % 
-CSS          21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+JSX          2 hrs 12 mins   ██████████████▒░░░░░░░░░░   57.44 % 
+JavaScript   1 hr 17 mins    ████████▒░░░░░░░░░░░░░░░░   33.42 % 
+CSS          21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
 ```
 <!--END_SECTION:waka-->
 
