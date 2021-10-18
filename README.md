@@ -11,7 +11,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 11 October, 2021 - 17 October, 2021
+
+JSX          22 mins         █████████████████████▒░░░   85.42 % 
+JSON         3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
 ```
 <!--END_SECTION:waka-->
 
