@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 October, 2021 - 21 October, 2021
+Week: 16 October, 2021 - 22 October, 2021
 
 JSX          22 mins         █████████████████████▒░░░   85.42 % 
 JSON         3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
