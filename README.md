@@ -11,10 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 October, 2021 - 23 October, 2021
-
-JSX          22 mins         █████████████████████▒░░░   85.42 % 
-JSON         3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
