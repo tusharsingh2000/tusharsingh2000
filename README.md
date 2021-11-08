@@ -11,10 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 October, 2021 - 06 November, 2021
-
-JSX   48 mins         ██████████████████░░░░░░░   71.76 % 
-CSS   18 mins         ███████░░░░░░░░░░░░░░░░░░   28.24 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
