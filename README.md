@@ -11,7 +11,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 02 November, 2021 - 08 November, 2021
+
+JSX   1 hr 19 mins    ██████████████▒░░░░░░░░░░   57.01 % 
+CSS   59 mins         ██████████▓░░░░░░░░░░░░░░   42.99 % 
 ```
 <!--END_SECTION:waka-->
 
