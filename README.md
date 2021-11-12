@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 November, 2021 - 10 November, 2021
+Week: 05 November, 2021 - 11 November, 2021
 
 JSX   2 hrs 2 mins    ██████████████░░░░░░░░░░░   55.77 % 
 CSS   1 hr 37 mins    ███████████░░░░░░░░░░░░░░   44.23 % 
