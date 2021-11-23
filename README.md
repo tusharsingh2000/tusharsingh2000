@@ -11,7 +11,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 16 November, 2021 - 22 November, 2021
+
+JSX          4 hrs 1 min     ████████████████████░░░░░   79.65 % 
+CSS          27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+JSON         13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+JavaScript   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+HTML         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 ```
 <!--END_SECTION:waka-->
 
