@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 November, 2021 - 23 November, 2021
+Week: 18 November, 2021 - 24 November, 2021
 
 JSX          4 hrs 42 mins   ███████████████████░░░░░░   75.73 % 
 JSON         27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
