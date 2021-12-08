@@ -11,11 +11,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 November, 2021 - 06 December, 2021
+Week: 01 December, 2021 - 07 December, 2021
 
-HTML         21 mins         ████████████░░░░░░░░░░░░░   48.08 % 
-JSX          20 mins         ███████████░░░░░░░░░░░░░░   44.04 % 
-CSS          3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+HTML   19 mins         ███████████████▓░░░░░░░░░   63.09 % 
+JSX    11 mins         █████████▒░░░░░░░░░░░░░░░   36.91 % 
 ```
 <!--END_SECTION:waka-->
 
